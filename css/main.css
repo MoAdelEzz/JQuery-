@@ -1,0 +1,29 @@
+
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.ContainerMoi
+{
+    background-color: black;
+    width: 0px;
+    height: 30px;
+    padding-top: 1px;
+}
+
+h1
+{
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin: 40px 0px;
+    display: none;
+}
+
+.card
+{
+    display: none;
+}
